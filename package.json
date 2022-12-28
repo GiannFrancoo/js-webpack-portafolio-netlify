@@ -11,19 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
+    "url": "git+https://github.com/GiannFrancoo/js-webpack-portafolio-netlify.git"
   },
   "keywords": [
     "javascript",
     "html",
     "css"
   ],
-  "author": "oscar barajas <oscar@gndx.dev>",
+  "author": "Bentivegna Gian Franco <bentivegnagianfranco@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gndx/js-portfolio/issues"
-  },
-  "homepage": "https://github.com/gndx/js-portfolio#readme",
   "devDependencies": {
     "@babel/core": "^7.20.7",
     "@babel/plugin-transform-runtime": "^7.19.6",
